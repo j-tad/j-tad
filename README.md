@@ -1,4 +1,4 @@
-hi, i'm jacob
+hi, i'm jacob 👋
 
 i'm concentrated in computer science @ carleton university
 
