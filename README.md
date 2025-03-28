@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Jacob
 
-<!--
-**j-tad/j-tad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I concentrate in Computer Science @ Carleton University.
 
-Here are some ideas to get you started:
+Currently building Keeboard, making typing feel personal, while supporting independent Shopify vendors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past work spans search engines, web apps, and system-level utilities.
+
+Currently exploring machine learning, cryptography, and systems programming.
+
+Open to co-op opportunities for Summer/Fall 2025.
+
+You can reach me at:
+Email – jacobtadeson {at} cmail {dot} carleton {dot} ca
+X – @jtadsn
