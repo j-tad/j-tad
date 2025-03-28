@@ -1,15 +1,10 @@
-Hi, I'm Jacob
+hi, i'm jacob
 
-I concentrate in Computer Science @ Carleton University.
+i'm concentrated in computer science @ carleton university
 
-Currently building Keeboard, making typing feel personal, while supporting independent Shopify vendors.
+currently i'm building a platform to make typing feel personal, while supporting independent shopify vendors. 
+my past experience spans across building search engines, web apps, and system-level utilities.
+i'm interested in learning more about machine learning, cryptography, and systems programming.
 
-Past work spans search engines, web apps, and system-level utilities.
-
-Currently exploring machine learning, cryptography, and systems programming.
-
-Open to co-op opportunities for Summer/Fall 2025.
-
-You can reach me at:
-Email – jacobtadeson {at} cmail {dot} carleton {dot} ca
-X – @jtadsn
+open to co-op opportunities for summer/fall 2025 you can reach out on [X](https://x.com/jtadsn)
+or email me at: jacobtadeson {at} cmail {dot} carleton {dot} ca
