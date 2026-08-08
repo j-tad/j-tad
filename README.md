@@ -1,1 +1,1 @@
-cs @ carleton 🇨🇦 · i like computers
+cs @ carleton 🇨🇦 · big fan of computers and yacht rock
